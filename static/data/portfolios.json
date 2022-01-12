@@ -1,0 +1,337 @@
+{
+    "portfolios":[
+       {
+          "id":0,
+          "title":"IPC Corporate Website",
+          "description":"Rebraded the website for AYW campaign. Redesign and rebuild Home page and inner pages with FreeMarker and Volicity. Since this website redesign AYW color and design has been addopted on other IPC material.",
+          "link":"https://ipcc.ca",
+          "platform":"Liferay",
+          "date":"2021-11-1",
+          "company":"Investment Planning Counsel",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Vilocity",
+             "Free Marker"
+          ],
+          "img":"http://moiezmalik.com/images/ipcc-liferay.JPG"
+       },
+       {
+          "id":1,
+          "title":"Counsel Services Website",
+          "description":"Redesign the Counsel Services Corporate website for launching new website and added new products.",
+          "link":"https://counselservices.com",
+          "platform":"Liferay",
+          "date":"2021-9-1",
+          "company":"Counsel Services",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript"
+          ],
+          "img":"http://moiezmalik.com/images/counselservicesliferay.png"
+       },
+       {
+          "id":2,
+          "title":"IPC Portfolio Services",
+          "description":"IPC Portfolio Services required a new Website to launch it's products. We designed and built a new website with business steak holders. Since the launch website been a great sucess and in end of 2021 we added 2 more products to website.",
+          "link":"https://ipcportfolio.ca",
+          "date":"2021-4-30",
+          "company":"Investment Planning Counsel",
+          "platform":"Duda",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript"
+          ],
+          "img":"https://aplos.ca/wp-content/uploads/2015/10/ipc-mac-desktop-copy-1170x780.jpg"
+       },
+       {
+          "id":3,
+          "title":"Probate Fee Calculator",
+          "description":"Desiged and devloped a calculator for advisors to calculate Probate Fee. This calculator is shared on 300 website and since launch it has seen fair amount of traffic.",
+          "link":"https://investmentplanningcounsel.ca/probate-fee-calculator",
+          "platform":"Angular",
+          "date":"2021-12-1",
+          "company":"Investment Planning Counsel",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript"
+          ],
+          "img":"http://moiezmalik.com/images/probate-calculator-javascript.JPG"
+       },
+       {
+          "id":4,
+          "title":"Estate Plan Report Generator",
+          "description":"This report generator is developed to help Financial Advisors better understand clients key goals and objectives when it comes to estate planning.",
+          "link":"https://www.tep.ipcdigital.ca/home",
+          "platform":"Angular",
+          "date":"2020-9-30",
+          "company":"Investment Planning Counsel",
+          "languages":[
+             "Angular",
+             "Typescript",
+             "Bootstrap",
+             "PDFMake"
+          ],
+          "img":"http://moiezmalik.com/images/estate-plan-angular.JPG"
+       },
+       {
+          "id":5,
+          "title":"Advisor Assessment",
+          "description":"This tool help users evaluate there finacial advisor need. End of this assessment user get know if s/he need a finaicial advisor or if they need to change their financial advisor. This tool in bilingual and has personalized url for advisor.",
+          "link":"https://advisorassessment.ipcdigital.ca/#/en/advisor/ipc-corporate",
+          "platform":"Angular",
+          "date":"2019-9-30",
+          "company":"Investment Planning Counsel",
+          "languages":[
+             "Angular",
+             "Typescript",
+             "Bootstrap",
+             "i18n"
+          ],
+          "img":"http://moiezmalik.com/images/advisor-assessment-angular.JPG"
+       },
+       {
+          "id":6,
+          "title":"RRSP Calculator",
+          "description":"This calculator will help user see how changing what they put in registered retirement savings plan (RRSP) can affect the retirement savings. It will also show what would happen if user took money out before they retire.",
+          "link":"https://calculators.ipcdigital.ca/rrsp-calculator",
+          "platform":"Angular",
+          "date":"2018-4-30",
+          "company":"Investment Planning Counsel",
+          "languages":[
+             "Angular",
+             "Typescript",
+             "Bootstrap"
+          ],
+          "img":"http://moiezmalik.com/images/rrsp-angular.JPG"
+       },
+       {
+          "id":7,
+          "title":"Project Cost Calculator",
+          "description":"This application help client find out the high level cost of the project. User are presented with multiple choice question and based on the asnwers the cost add up.",
+          "link":"https://aplos.ca/calculatewebsitecost/",
+          "platform":"Angular",
+          "date":"2016-1-30",
+          "company":"Aplos",
+          "languages":[
+             "Angular",
+             "Typescript",
+             "Bootstrap"
+          ],
+          "img":"http://moiezmalik.com/images/project-cost-calculator.angular.JPG"
+       },
+       {
+          "id":8,
+          "title":"Desktop Clock",
+          "description":"This clock is design and built in Java, it stays on top of all the windows and user can place it anywhere on screen. To run this application, download the Jar file and run this command in terminal 'java -jar /file/path'",
+          "link":"http://moiezmalik.com/apps/ClockWidget_Moiez.jar",
+          "platform":"Desktop App",
+          "date":"2016-11-30",
+          "company":"School",
+          "languages":[
+             "Java"
+          ],
+          "img":"http://moiezmalik.com/images/clockwidget.JPG"
+       },
+       {
+          "id":9,
+          "title":"Course Investory",
+          "description":"Course Inventory Application was build as my class project in Computer Programming. This Application allow user to get open Sheridan College courses file and retrieve all records to display in application, Further User has option to add, delete and update course information right on the app and saves changes. To run this application, download the Jar file and run this command in terminal 'java -jar /file/path'",
+          "link":"http://moiezmalik.com/apps/CourseInventory.jar",
+          "platform":"Desktop App",
+          "date":"2016-10-30",
+          "company":"School",
+          "languages":[
+             "Java"
+          ],
+          "img":"http://moiezmalik.com/images/courseinventoryapp.JPG"
+       },
+       {
+          "id":10,
+          "title":"TikTacToe Game",
+          "description":"This terminal app is design and built in Java, two users play this game on same device. To run this application, download the Jar file and run this command in terminal 'java -jar /file/path'",
+          "link":"http://moiezmalik.com/apps/TicTacToe.jar",
+          "platform":"Terminal App",
+          "date":"2018-12-30",
+          "company":"Personal",
+          "languages":[
+             "Java"
+          ],
+          "img":"http://moiezmalik.com/images/tictactor.png"
+       },
+       {
+          "id":11,
+          "title":"Cricket Game",
+          "description":"CricketGame focus on multiple radio buttons, picture box and random class to generate random numbers as team score when play button is clicked. Team winning is validated with conditional statement.",
+          "link":"",
+          "platform":"Desktop App",
+          "date":"2018-1-30",
+          "company":"School",
+          "languages":[
+             "C#"
+          ],
+          "img":"http://moiezmalik.com/images/cricketgame.JPG"
+       },
+       {
+          "id":12,
+          "title":"Aspect Blog",
+          "description":"This a custom blog designed for financial advisors to stay on top of the market trends and latest news. This app serve advisor related contents and help generate leads for business.",
+          "link":"https://aspect.ipcc.ca/",
+          "platform":"Duda",
+          "date":"2020-2-1",
+          "company":"Investment Planning Counsel",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript"
+          ],
+          "img":"http://moiezmalik.com/images/aspect-duda.JPG"
+       },
+       {
+          "id":13,
+          "title":"Insights Blog",
+          "description":"Insights blog for IPC Investors. This blog is design to accomodate three corporate website, IPC Private Wealth, IPCC, Counsel Services. User is presentented with different navbar and contents depending which website they are directed from.",
+          "link":"https://insights.ipcc.ca/",
+          "platform":"Duda",
+          "date":"2021-2-30",
+          "company":"Investment Planning Counsel",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript"
+          ],
+          "img":"http://moiezmalik.com/images/insights-ipcc-duda.JPG"
+       },
+       {
+          "id":14,
+          "title":"Aplos Digital",
+          "description":"Corporate website for Aplos Digital. This website is design to generate leads and provide all development and marketing services to clients.",
+          "link":"https://aplos.ca/",
+          "platform":"Wordpress",
+          "date":"2020-12-30",
+          "company":"Aplos Digital",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript",
+             "PHP"
+          ],
+          "img":"http://moiezmalik.com/images/aplos-wordpress.JPG"
+       },
+       {
+          "id":15,
+          "title":"Business Exit Planners",
+          "description":"Financial advisor website to target business owners. Website go in detail to show why business owners been to have financial plan. ",
+          "link":"https://businessexitplanners.ca/",
+          "platform":"Wordpress",
+          "date":"2020-7-5",
+          "company":"Pellegrini Financial",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript",
+             "PHP"
+          ],
+          "img":"http://moiezmalik.com/images/business-exit-planner-wordpress.JPG"
+       },
+       {
+          "id":16,
+          "title":"The English Tutor",
+          "description":"English teachers website to show all the services they offer and provide detail to potential user. Website is optimized with SEO to generate leads. ",
+          "link":"https://theenglishtutor.ca/",
+          "platform":"Wordpress",
+          "date":"2020-6-12",
+          "company":"The English Tutor",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript",
+             "PHP"
+          ],
+          "img":"https://aplos.ca/wp-content/uploads/2020/08/The_English_Tutor.png"
+       },
+       {
+          "id":17,
+          "title":"RoyalAliRealtor",
+          "description":"Real estate website built so show the MLS listing. Realtor can automate the listing and have an option to send lsiting to potential buyer with few click.",
+          "link":"https://royalalirealtor.com/",
+          "platform":"Wordpress",
+          "date":"2021-12-30",
+          "company":"Royal Ali",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript",
+             "PHP"
+          ],
+          "img":"http://moiezmalik.com/images/royalalirealtor-wordpress.JPG"
+       },
+       {
+          "id":18,
+          "title":"Flower Bloomers",
+          "description":"Flower Shop website, designed and built to showcase the work and generate leads for the business. This wordpress sites is simple and fast for users.",
+          "link":"http://www.flowerbloomers.com/",
+          "platform":"Wordpress",
+          "date":"2019-2-2",
+          "company":"Flower Bloomers",
+          "languages":[
+             "HTML",
+             "CSS",
+             "Javascript",
+             "PHP"
+          ],
+          "img":"https://aplos.ca/wp-content/uploads/2015/10/flower-bloomers-mac-copy-1170x780.jpg"
+       },
+       {
+          "id":19,
+          "title":"Dad's Joke",
+          "description":"Small Vue application to pull 20 jokes from DadJokes api and display them in list.",
+          "link":"http://www.flowerbloomers.com/",
+          "platform":"Vue",
+          "date":"2022-01-01",
+          "company":"Personal",
+          "languages":[
+             "Vue",
+             "Axios",
+             "Javascript",
+             "Bootstrap"
+          ],
+          "img":"http://moiezmalik.com/images/dadjokes.JPG"
+       },
+       {
+          "id":20,
+          "title":"Task Manager",
+          "description":"CRUD application to manage tasks.",
+          "link":"http://www.flowerbloomers.com/",
+          "platform":"Vue",
+          "date":"2022-01-01",
+          "company":"Personal",
+          "languages":[
+             "Vue",
+             "Axios",
+             "Javascript",
+             "Bootstrap"
+          ],
+          "img":"http://moiezmalik.com/images/task-manager-vue.JPG"
+       },
+       {
+          "id":21,
+          "title":"Random User App",
+          "description":"This application pull 50 users from random user api and display. User image is displayed in grid and upon hover, image zoomed in five percent",
+          "link":"http://www.flowerbloomers.com/",
+          "platform":"Angular",
+          "date":"2021-11-12",
+          "company":"Personal",
+          "languages":[
+             "Vue",
+             "Axios",
+             "Javascript",
+             "Bootstrap"
+          ],
+          "img":"http://moiezmalik.com/images/random-user-angular.JPG"
+       }
+    ]
+ }
