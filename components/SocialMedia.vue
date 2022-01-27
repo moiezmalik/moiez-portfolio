@@ -1,14 +1,17 @@
 <template>
   <div class="container-fluid social-container">
       <div class="row text-center">
-          <div class="col-4">
+          <div class="col-3">
               <a href="https://github.com/moiezmalik" target="_blank"><i class="fab fa-github socia-icons"></i></a>
           </div>
-          <div class="col-4">
+          <div class="col-3">
               <a href="https://www.linkedin.com/in/moiez-malik-38097b3b/" target="_blank"><i class="fab fa-linkedin-in socia-icons"></i></a>
           </div>
-          <div class="col-4">
+          <div class="col-3">
               <a href="https://www.npmjs.com/~moiezmalik" target="_blank"></a><i class="fab fa-npm socia-icons"></i>
+          </div>
+          <div class="col-3">
+              <a href="https://codepen.io/moiezmalik" target="_blank"></a><i class="fab fa-codepen socia-icons"></i>
           </div>
       </div>
   </div>

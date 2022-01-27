@@ -10,31 +10,31 @@
         <img :src="portfolio.img" style="width: 100%" alt="portfolio image" />
       </div>
       <div class="col-md-6">
-        <h1>{{ portfolio.title }}</h1>
-        <p>{{ portfolio.description }}</p>
+        <h1 class="pt-3 pt-md-0">{{ portfolio.title }}</h1>
+        <p class="pb-md-0 pb-5">{{ portfolio.description }}</p>
         <Button class="vist-project" :title="'Vist Project'" :target="'_blank'" :link="portfolio.link"/>
       </div>
     </div>
     <div class="row pt-5">
       <div class="col-md-12 portfolio-stats">
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-md-3 pt-3 pb-3 pt-md-0 pb-md-0">
               <i class="fas fa-server socia-icons"></i>
               <h4>Category:</h4>
             <p>{{ portfolio.platform }}</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 pt-3 pb-3 pt-md-0 pb-md-0">
               <i class="fas fa-cubes socia-icons"></i>
               <h4>Tech Stack:</h4>
             <p v-for="lang in portfolio.languages" :key="lang">
                 {{ lang }}</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 pt-3 pb-3 pt-md-0 pb-md-0">
               <i class="fas fa-calendar-check socia-icons"></i>
               <h4>Date:</h4>
               <p>{{portfolio.date}}</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 pt-3 pb-3 pt-md-0 pb-md-0">
                <i class="fas fa-building socia-icons"></i>
               <h4>Company:</h4>
               <p>{{portfolio.company}}</p>
@@ -56,7 +56,7 @@ export default {
     };
   },
   async created() {
-    const url = "http://moiezmalik.com/data/portfolios.json";
+    const url = "../data/portfolios.json";
     try {
       const res = await axios.get(url);
       this.portfolios = res.data.portfolios;
@@ -103,6 +103,12 @@ p{
 .vist-project{
     bottom: 0;
     position: absolute;
+}
+@media (max-width: 767px) {
+  .vist-project{
+    bottom: 0;
+    position: relative;
+  }
 }
 .portfolio-stats {
   padding: 30px 10px 10px 10px;

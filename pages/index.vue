@@ -65,7 +65,7 @@ export default {
     };
   },
   async created() {
-    const url = "http://moiezmalik.com/data/portfolios.json";
+    const url = "http://localhost:3000/data/portfolios.json";
     try {
       const res = await axios.get(url);
       this.portfolios = res.data.portfolios.sort((a,b) => { return new Date(b.date) - new Date(a.date)}).slice(0,6);

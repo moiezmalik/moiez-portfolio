@@ -6,7 +6,7 @@
       <div class="col-md-6 text-center">
          <img class="moiez-img" src="http://moiezmalik.com/images/moiezmaliknew.jpeg" alt="Moiez Malik">
       </div>
-        <div class="col-md-6 my-auto text-center">
+        <div class="col-md-6 my-auto text-center pb-3 pb-md-0 pt-4 pt-md-0">
           <h2>Welcome to my portfolio</h2>
           <h1>Moiez Malik</h1>
           <h3>Web Developer</h3>
